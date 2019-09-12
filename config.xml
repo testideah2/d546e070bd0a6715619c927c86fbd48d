@@ -3,9 +3,9 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ru.rostovgrill.app"
     versionCode = "10"
-    version     = "1.2.0">
+    version     = "1.3.0">
 
-<name>ТЕСТ. rostovgrill.ru</name>
+<name>rostovgrill.ru</name>
 
 <description>
     Сеть предприятий быстрого питания
