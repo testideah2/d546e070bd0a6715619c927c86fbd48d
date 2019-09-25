@@ -3,7 +3,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "ru.rostovgrill.app"
         versionCode = "10"
-        version     = "1.13.0">
+        version     = "1.14.0">
 
     <name>rostovgrill.ru</name>
 
@@ -28,7 +28,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#B47F39" />
+    <preference name="SplashScreenSpinnerColor" value="#007BFF" />
 
 
     <platform name="android">
