@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "ru.rostovgrill-new.app"
+        id          = "ru.rostov-grill.app"
         versionCode = "10"
-        version     = "1.24.0">
+        version     = "1.25.0">
 
     <name>ru.rostovgrill.app</name>
 
