@@ -3,7 +3,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "ru.rostov-grill.app"
         versionCode = "10"
-        version     = "1.27.0">
+        version     = "1.28.0">
 
     <name>ru.rostovgrill.app</name>
 
